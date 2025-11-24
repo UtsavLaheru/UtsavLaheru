@@ -9,7 +9,7 @@
 
 - 📖 I’m currently learning **GDScript,C,C++,C#,Python**
 
-- 👨‍💻 All of my projects are available at [Link](Link)
+- 👨‍💻 All of my projects are available at [Link](https://github.com/UtsavLaheru?tab=repositories)
 
 - 📝 I regularly write articles on [Link](Link)
 
