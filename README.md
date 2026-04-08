@@ -1,11 +1,12 @@
-[![GitHub Stars](https://img.shields.io/github/stars/Utsavlaheru/Utsavlaheru)](https://github.com/UtsavLaheru/UtsavLaheru/stargazers)
 
 <h1 align="center">Hi, I'm Utsav Laheru</h1>
 
 <p align ="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=28&pause=1000&center=true&vCenter=true&width=440&lines=A+Game+Devloper;Web+Devloper;RL+Enthusiast;AI%2FML+Learning" alt="Typing SVG" /></a>
 </p>
-
+<a href="https://github.com/Utsavlaheru/Trash-Catcher/stargazers">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Utsavlaheru/Utsavlaheru">
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavlaheru&label=Profile%20viewed&color=107dc1&style=plastic" alt="utsavlaheru" /> </p>
 
