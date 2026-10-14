@@ -8,7 +8,7 @@
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Utsavlaheru/Utsavlaheru">
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavlaheru&label=Profile%20viewed&color=107dc1&style=plastic" alt="utsavlaheru" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavlaheru&label=Profile%20viewed&color=107dc1&style=plastic" alt="utsavlaheru" /> </p> -->
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utsavlaheru" alt="utsavlaheru" /></a> </p> -->
