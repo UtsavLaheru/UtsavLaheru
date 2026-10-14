@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **utsavlaheru@gmail.com**
 
-- 📄 Know about my experiences [Link](Link)
+- 📄 Know about my experiences [Resume_Download](https://github.com/user-attachments/files/33450315/Laheru_Utsav_Resume.pdf)
 
 - ⚡ Fun fact **Nothing...**
 
